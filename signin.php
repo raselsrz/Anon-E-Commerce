@@ -9,7 +9,7 @@
 	<meta name="description" content="Carrot - Admin.">
 	<meta name="author" content="ashishmaraviya">
 
-	<title>Carrot - Admin.</title>
+	<title>Anon Srz - Admin.</title>
 
 	<!-- App favicon -->
 	<link rel="shortcut icon" href="assets/img/favicon/favicon.ico">
